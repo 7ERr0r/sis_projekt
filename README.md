@@ -3,6 +3,7 @@ Grafowy projekt iteracyjnego szukania rozwiazania.
 
 Animacja poklatkowa w przegladarce szuka najlepszego ulozenie wezlow.
 
+Wykonano: Jan 31, 2022
 
 ## Uruchamianie
 
